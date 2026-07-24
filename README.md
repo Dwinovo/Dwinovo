@@ -5,6 +5,8 @@
 ![Full Stack](https://img.shields.io/badge/-FULL%20STACK-e34c26?style=for-the-badge&logo=javascript&logoColor=white)
 ![Covert Agent Communication](https://img.shields.io/badge/-COVERT%20AGENT%20COMMUNICATION-2f363d?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Java](https://img.shields.io/badge/-JAVA-b07219?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-PYTHON-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-GO-00add8?style=for-the-badge&logo=go&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-8a2be2?style=for-the-badge&logo=openai&logoColor=white)
 
 I'm passionate about **building the future with code**. My work centers on **Agent development** and **full-stack engineering**, with deep hands-on practice in **covert agent communication**. I'm also the creator of **[numen](https://github.com/Dwinovo/minecraft-numen)** — an open-source Minecraft mod that gives large language models a body: an AI companion that pathfinds, mines, builds, chats and speaks alongside you, maintained across 11 game versions.
