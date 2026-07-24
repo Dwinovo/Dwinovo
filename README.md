@@ -1,18 +1,17 @@
-# 👋 Hi! I'm Dwin
+# 👋 Hi! I'm Dwinovo
 
-![Java](https://img.shields.io/badge/-JAVA-b07219?style=for-the-badge&logo=openjdk&logoColor=white)
-![Minecraft Modding](https://img.shields.io/badge/-MINECRAFT%20MODDING-62b47a?style=for-the-badge&logo=lunacy&logoColor=white)
 ![Agent](https://img.shields.io/badge/-AGENT-5d3fd3?style=for-the-badge&logo=probot&logoColor=white)
-![LLM](https://img.shields.io/badge/-LLM-8a2be2?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-1f6feb?style=for-the-badge&logo=anthropic&logoColor=white)
+![MC Modding](https://img.shields.io/badge/-MC%20MODDING-62b47a?style=for-the-badge&logo=lunacy&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/-FULL%20STACK-e34c26?style=for-the-badge&logo=javascript&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-CYBERSECURITY-2f363d?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Covert Agent Communication](https://img.shields.io/badge/-COVERT%20AGENT%20COMMUNICATION-2f363d?style=for-the-badge&logo=wireguard&logoColor=white)
+![Java](https://img.shields.io/badge/-JAVA-b07219?style=for-the-badge&logo=openjdk&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-8a2be2?style=for-the-badge&logo=openai&logoColor=white)
 
-I build AI agents that live inside real environments. I'm the creator of **[numen](https://github.com/Dwinovo/minecraft-numen)** — an open-source Minecraft mod that gives large language models a body: a companion that pathfinds, mines, builds, chats and speaks alongside you, maintained across **11 game versions** from 1.20.1 to the latest release, with an MCP server built in so external agents can take the wheel.
+I'm passionate about **building the future with code**. My work centers on **Agent development** and **full-stack engineering**, with deep hands-on practice in **covert agent communication**. I'm also the creator of **[numen](https://github.com/Dwinovo/minecraft-numen)** — an open-source Minecraft mod that gives large language models a body: an AI companion that pathfinds, mines, builds, chats and speaks alongside you, maintained across 11 game versions.
 
-My long-term interests center on Agent architecture, LLM applications and practical engineering — making agents that don't just talk, but act reliably in complex, stateful worlds. I also do full-stack development and research on covert agent communication.
+Beyond engineering, I enjoy exploring business models that turn technical ideas into real products. My core belief: **technology shouldn't just be "hardcore" — it should make a real-world impact.**
 
-I'm currently studying **Cyberspace Security at BUPT** (Beijing University of Posts and Telecommunications). Feel free to reach out by email about collaborations, contributions, or interesting ideas.
+**I'm currently studying Cyberspace Security at BUPT** (Beijing University of Posts and Telecommunications). Always at the frontier — feel free to reach out about collaborations, contributions, or interesting ideas. Let's build something cool together.
 
 Find me at:&nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/-Website-0a9396?style=for-the-badge&logo=safari&logoColor=white)](https://numen.dwinovo.cn/about)
