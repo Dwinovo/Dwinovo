@@ -13,7 +13,7 @@ Beyond engineering, I enjoy exploring business models that turn technical ideas 
 
 **I'm currently studying Cyberspace Security at BUPT** (Beijing University of Posts and Telecommunications). Always at the frontier — feel free to reach out about collaborations, contributions, or interesting ideas. Let's build something cool together.
 
-Find me at:&nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/-Website-0a9396?style=for-the-badge&logo=safari&logoColor=white)](https://numen.dwinovo.cn/about)
-[![numen](https://img.shields.io/badge/-NUMEN-3c8527?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dwinovo/minecraft-numen)
-[![Email](https://img.shields.io/badge/-EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2328703107@qq.com)
+Follow me on:&nbsp;&nbsp;
+[![Bilibili](https://img.shields.io/badge/-BILIBILI-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/92408858)
+[![Douyin](https://img.shields.io/badge/-%E6%8A%96%E9%9F%B3%20Dwinovo-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.douyin.com/search/Dwinovo)
+[![Xiaohongshu](https://img.shields.io/badge/-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/search_result?keyword=95851739463)
